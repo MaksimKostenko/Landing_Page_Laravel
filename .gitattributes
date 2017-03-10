@@ -2,4 +2,4 @@
 *.css linguist-vendored
 *.scss linguist-vendored
 *.rb linguist-language=Java
-*. linguist-vendored
+*.html linguist-vendored
